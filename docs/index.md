@@ -1,3 +1,6 @@
+title: [Index]
+description: [Welcome to index]
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brencorc/brencorc.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
