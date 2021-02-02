@@ -1,37 +1,41 @@
-Outline
-# Part 1: The Cognitive Revolution
-## human evolution
+# Sapiens Outline
+
+## Part 1: The Cognitive Revolution
+
+### 1. human evolution
 Homo sapiens developed around 200k-150kya in E Africa (anatomically modern humans)
 when Homo sapiens left Africa (70kya), most of Eurasia was already inhabited by Neanderthals, Denisovans, Erectus
 What drove the evolution of the massive human brain over 2 million years? not clear if/why it’s a good strategy for survival on savannah
-## What was the cognitive revolution?
+### 2. What was the cognitive revolution?
 70-30kya: suddenly lots of new inventions: boats, bow & arrows, art, religion, burials, commerce ... aka culture (behaviorally modern humans)
 emergence of fictive language
 made large-scale cooperation possible
 started cultural evolution (cultural ratchet) - human life can change much quicker than biological evolution (“fast lane”)
-## Life for hunter-gatherers (70kya-12kya)
+### 3. Life for hunter-gatherers (70kya-12kya)
 basically, life was pretty good (“first affluent societies”).. didn’t have to work as many hours, ate well
 our modern minds are adapted to hunter-gatherer lifestyle; now interacting with post-industrial environment (causes some problems)
 each tribe had its own culture (galaxy of cultures); “there hasn’t been a single natural way of life”
 curtain of silence: we cannot reconstruct specific events, religious beliefs, wars, philosophies of ancient foragers (big gap in our understanding of history)
-## Impact of hunter-gatherers on ecosystem
+### 4. Impact of hunter-gatherers on ecosystem
 mass extinction of megafauna in Australia and America (they hadn’t evolved with humans, so were vulnerable)
 
-#Part 2: The Agricultural Revolution
-Agricultural Revolution intro
-what was it?
-around 12kya: people start devoting “almost all their time and effort to manipulating the lives of a few animal and plant species”
+## Part 2: The Agricultural Revolution
+
+### 5. Agricultural Revolution intro
+- what was it?
+	- around 12kya: people start devoting “almost all their time and effort to manipulating the lives of a few animal and plant species”
 marked by population increases: for nomadic foragers, babies/children were a burden, so they space them out; farmers actually need more children to work the fields + there is surplus food, so birth rate rises
-“history’s biggest fraud”
-cons: more violence, less varied diet, harder work, less secure (reliant on single crop), higher population density, higher spread of disease, creation of elite class
-luxury trap: small, incremental “improvements” in society added up to a worse lifestyle, and there’s no going back
-animals: domestication of animals led to cruel treatment, miserable lives
+- “history’s biggest fraud”
+	- cons: more violence, less varied diet, harder work, less secure (reliant on single crop), higher population density, higher spread of disease, creation of elite class
+	- luxury trap: small, incremental “improvements” in society added up to a worse lifestyle, and there’s no going back
+	- animals: domestication of animals led to cruel treatment, miserable lives
+
 how did humans organize themselves in unnaturally large numbers?
-imagined orders
+### 6. imagined orders
 food surpluses led to towns, cities, eventually kingdoms; relied on myths to bond unnaturally large groups of people
 created social codes to maintain social order: human rights, hierarchies; although imaginary, must actually be believed (doublethink)
 “evidence” imagined order is real: embedded in material world (architecture), shapes desires (consumerism), inter-subjective (eg money)
-written language
+### 7. written language
 as societies got more complex, needed to store a lot of data (taxes); developed written language to store data outside human brain
 first written language (3500 BC) were partial scripts, not intended to replicate spoken language, but to keep track of records
 written language changes the way humans think and view the world
@@ -39,22 +43,24 @@ bureaucracy and data organization
 mathematics (physics/engineering don’t use spoken language)
 computers 
 ---  
-imagined orders create categories of humans, cause discrimination
+### 8. imagined orders create categories of humans, cause discrimination
 complex human societies seem to require hierarchies and discrimination: caste sytems, racial heirarchies, rich and poor
 vicious cycle: chance historical events are perpetuated
 cultural prejudices → discriminatory laws → poverty and lack of education → cultural prejudices
 gender hierarchies: why are almost all human societies dominated by men? not historical chance since it’s so ubiquitous, but we don’t really know
 
 
-# Part 3: The Unification of Humankind
-arrow of history
+## Part 3: The Unification of Humankind
+
+### 9. arrow of history
 cultures are constantly in flux: because they are resolving inconsistencies like freedom vs equality
 there are no “authentic” cultures, if defined as something that develops independently, free from external influences
 the arrow of history is towards a universal global order
 everyone follows same geopolitical, economic, legal, and scientific system
 this species-level cooperation would seem strange to earlier sapiens, who were so used to us-vs-them mindset
 driven by money, empires, religion
-money
+
+### 10. money
 old systems: favors and bartering
 for more complex economies, money is required (bartering doesn’t work)
 exchange one thing for another (convertibility), don’t need to seek out apple-craving shoemaker (sell the apples for money, and then buy shoes)
@@ -63,7 +69,8 @@ store, transport wealth conveniently
 money based on trust, inter-subjective, collective imagination
 unites people, whole empire/trade network have to have trust in same currency
 spreads: the fact that someone values gold/silver, makes others value it too
-empires
+
+### 11. empires
 empires are the reason for reduction in human diversity: obliterated numerous peoples and formed larger groups (Romans eliminate Celtic culture in Spain)
 universal empire: rule for benefit of people, inclusive
 cycle of empires: small groups establishes big empire, imperial culture is forged, adopted by subject peoples, subject people demand equal rights, founders lose dominance, culture continues to develop
@@ -71,7 +78,8 @@ problems with wholesale denunciation of empires:
 all human cultures are in part the legacy of empires, there are no “authentic” cultures
 much of human culture forged by empires: philosophy, art, justice, charity
 layers: British empire ← Mughal empire ← Gupta empire, which cultural layers should be removed
-religion
+
+### 12. religion
 what is a religion: system of human norms and values+belief in superhuman order
 supernatural religions
 animism: hunter-gatherers, local
@@ -81,7 +89,8 @@ dualism: good vs evil; Zoroastrianism, Gnosticism, Manichaeism
 natural-law religions
 premodern: Buddhism (suffering arises from craving, liberated by training the mind to experience reality as it is), Stoicism/Cynicism/Epicureanism
 modern: liberalism, Communism, capitalism, nationalism
-two notes about history
+
+### 13. two notes about history
 determinism & the hindsight fallacy
 “the present situation is neither natural or inevitable”
 “what looks inevitable in hindsight was far from obvious at the time”
@@ -91,8 +100,9 @@ history disregards the happiness of individuals; no evidence those cultures bene
 “successful cultures are those that reproduce their memes, regardless of the cost/benefits to their human hosts”
 
 
-#Part 4: The Scientific Revolution
-intro to science
+## Part 4: The Scientific Revolution
+
+### 14. intro to science
 3 qualities of science
 admits its own ignorance & that could be proven wrong
 centrality of observation, generalized by mathematical theories
@@ -103,7 +113,8 @@ admitting ignorance + seeing new powers of science = people start to believe tha
 ultimate goal of science in 21st century: curing death
 ideological backing: science doesn’t have an agenda but its funding does
 is-ought problem: science can say what is, but politics/ideology says what we ought to study and what we ought to do with the power
-empires + science
+
+### 15. empires + science
 why Europe?
 center of power shifted from Asia to Europe only between 1750-1850
 Europe had been laying the foundations from 1500-1750 (science + capitalism)
@@ -111,7 +122,8 @@ Asia just wasn’t interested in, for example, competing with Europe to conquer 
 discovery of America made Europeans realize they didn’t have all the answers (parallels with science itself), piqued curiosity
 began age of exploration of geography, botany, archaeology, anthropology
 British studied linguistics, archaeology of conquered lands (India)
-capitalism + science
+
+### 16. capitalism + science
 growth cycle: trust in future → credit (+ discoveries/progress) → growth
 capitalist creed: “the profits of production must be reinvested in increasing production”
 banks, govts print money (pump credit into the system), science foots the bill; if scientists can’t come through, that’s a bubble
@@ -122,8 +134,9 @@ problems with the free-market
 “markets by themselves offer no protection against fraud, theft, and violence”
 “it cannot ensure that profits are gained in a fair way, or distributed in a fair manner” (slavery, exploitation... driven by greed and indifference)
 
-# Part 4.5: The Industrial Revolution
-## the industrial revolution
+## Part 4.5: The Industrial Revolution
+
+### 17. the industrial revolution
 revolution in energy
 1825 - first steam engine train in England (Newcastle)
 “people became obsessed with the idea that machines and engines could be used to convert one typ of energy into another”, “the IR has been a revolution in energy conversion”
@@ -135,7 +148,8 @@ rise of consumerism
 throughout history scarcity → frugality; after IR & production, consumerism is positive and frugality is a disease to be cured
 in past, aristocrats lived luxuriously and peasants were frugal
 capitalist-consumerist ethic: now the rich take care of their assets (invest, greed) and the poor go into debt with consuming (buy, crave)
-effects of industrial revolution
+
+### 18. effects of industrial revolution
 time
 in past, relied on movements of sun and growth cycles of plants
 after IR, precision and uniformity sanctified; invention of timetables, standardized time; “almost everything we do has to be done on time”
@@ -151,7 +165,8 @@ peace
 rise of the state (courts & police) → large decrease in local violent crime
 collapse of British, French, Soviet empires after 1945 rather peaceful (some exceptions: Algeria, Vietnam)
 few wars: nuclear weapons (mutually assured destruction), wealth in human capital not material (can’t be captured), foreign trade & investment, peace-loving elite; Global Empire enforces peace within its borders (we aren’t really independent nations anymore)
-happiness
+
+### 19. happiness
 how does wealth, health, community correlate with subjective well-being
 “happiness does not really depend on objective conditions ... it depends on the correlation between objective conditions and subjective expectations”
 how does biochemistry correlate with subjective well-being
@@ -162,7 +177,8 @@ meaning
 “any meaning that people ascribe to their lives is just a delusion” 
 Buddhism
 suffering arises from craving ephemeral feelings
-the future
+
+### 20. the future
 biological engineering
 genetic engineering: “our ability to modify genes is outpacing our capacity for making wise and far-sighted use of the skill”
 inevitable: “possibility of prolonging human life indefinitely, conquering incurable diseases, and upgrading cognitive & emotional abilities”
