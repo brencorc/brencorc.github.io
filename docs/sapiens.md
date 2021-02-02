@@ -27,7 +27,7 @@
 ### 5. Agricultural Revolution intro
 - what was it?
 	- around 12kya: people start devoting “almost all their time and effort to manipulating the lives of a few animal and plant species”
-marked by population increases: for nomadic foragers, babies/children were a burden, so they space them out; farmers actually need more children to work the fields + there is surplus food, so birth rate rises
+	- marked by population increases: for nomadic foragers, babies/children were a burden, so they space them out; farmers actually need more children to work the fields + there is surplus food, so birth rate rises
 - “history’s biggest fraud”
 	- cons: more violence, less varied diet, harder work, less secure (reliant on single crop), higher population density, higher spread of disease, creation of elite class
 	- luxury trap: small, incremental “improvements” in society added up to a worse lifestyle, and there’s no going back
@@ -61,31 +61,31 @@ marked by population increases: for nomadic foragers, babies/children were a bur
 ## Part 3: The Unification of Humankind
 
 ### 9. arrow of history
-cultures are constantly in flux: because they are resolving inconsistencies like freedom vs equality
-there are no “authentic” cultures, if defined as something that develops independently, free from external influences
-the arrow of history is towards a universal global order
-everyone follows same geopolitical, economic, legal, and scientific system
-this species-level cooperation would seem strange to earlier sapiens, who were so used to us-vs-them mindset
-driven by money, empires, religion
+- cultures are constantly in flux: because they are resolving inconsistencies like freedom vs equality
+	- there are no “authentic” cultures, if defined as something that develops independently, free from external influences
+- the arrow of history is towards a universal global order
+	- everyone follows same geopolitical, economic, legal, and scientific system
+	- this species-level cooperation would seem strange to earlier sapiens, who were so used to us-vs-them mindset
+	- driven by money, empires, religion
 
 ### 10. money
-old systems: favors and bartering
-for more complex economies, money is required (bartering doesn’t work)
-exchange one thing for another (convertibility), don’t need to seek out apple-craving shoemaker (sell the apples for money, and then buy shoes)
-compare value of different commodities, need only O(n) rates rather than O(n^2) pairwise rates
-store, transport wealth conveniently
-money based on trust, inter-subjective, collective imagination
-unites people, whole empire/trade network have to have trust in same currency
-spreads: the fact that someone values gold/silver, makes others value it too
+- old systems: favors and bartering
+- for more complex economies, money is required (bartering doesn’t work)
+	- exchange one thing for another (convertibility), don’t need to seek out apple-craving shoemaker (sell the apples for money, and then buy shoes)
+	- compare value of different commodities, need only O(n) rates rather than O(n^2) pairwise rates
+	- store, transport wealth conveniently
+- money based on trust, inter-subjective, collective imagination
+	- unites people, whole empire/trade network have to have trust in same currency
+	- spreads: the fact that someone values gold/silver, makes others value it too
 
 ### 11. empires
-empires are the reason for reduction in human diversity: obliterated numerous peoples and formed larger groups (Romans eliminate Celtic culture in Spain)
-universal empire: rule for benefit of people, inclusive
-cycle of empires: small groups establishes big empire, imperial culture is forged, adopted by subject peoples, subject people demand equal rights, founders lose dominance, culture continues to develop
-problems with wholesale denunciation of empires:
-all human cultures are in part the legacy of empires, there are no “authentic” cultures
-much of human culture forged by empires: philosophy, art, justice, charity
-layers: British empire ← Mughal empire ← Gupta empire, which cultural layers should be removed
+- empires are the reason for reduction in human diversity: obliterated numerous peoples and formed larger groups (Romans eliminate Celtic culture in Spain)
+- universal empire: rule for benefit of people, inclusive
+- cycle of empires: small groups establishes big empire, imperial culture is forged, adopted by subject peoples, subject people demand equal rights, founders lose dominance, culture continues to develop
+- problems with wholesale denunciation of empires:
+	- all human cultures are in part the legacy of empires, there are no “authentic” cultures
+	- much of human culture forged by empires: philosophy, art, justice, charity
+	- layers: British empire ← Mughal empire ← Gupta empire, which cultural layers should be removed
 
 ### 12. religion
 what is a religion: system of human norms and values+belief in superhuman order
