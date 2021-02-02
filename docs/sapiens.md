@@ -3,21 +3,24 @@
 ## Part 1: The Cognitive Revolution
 
 ### 1. human evolution
-Homo sapiens developed around 200k-150kya in E Africa (anatomically modern humans)
-when Homo sapiens left Africa (70kya), most of Eurasia was already inhabited by Neanderthals, Denisovans, Erectus
-What drove the evolution of the massive human brain over 2 million years? not clear if/why it’s a good strategy for survival on savannah
+- Homo sapiens developed around 200k-150kya in E Africa (anatomically modern humans)
+- when Homo sapiens left Africa (70kya), most of Eurasia was already inhabited by Neanderthals, Denisovans, Erectus
+- What drove the evolution of the massive human brain over 2 million years? not clear if/why it’s a good strategy for survival on savannah
+
 ### 2. What was the cognitive revolution?
-70-30kya: suddenly lots of new inventions: boats, bow & arrows, art, religion, burials, commerce ... aka culture (behaviorally modern humans)
-emergence of fictive language
-made large-scale cooperation possible
-started cultural evolution (cultural ratchet) - human life can change much quicker than biological evolution (“fast lane”)
+- 70-30kya: suddenly lots of new inventions: boats, bow & arrows, art, religion, burials, commerce ... aka culture (behaviorally modern humans)
+- emergence of fictive language
+	- made large-scale cooperation possible
+	- started cultural evolution (cultural ratchet) - human life can change much quicker than biological evolution (“fast lane”)
+
 ### 3. Life for hunter-gatherers (70kya-12kya)
-basically, life was pretty good (“first affluent societies”).. didn’t have to work as many hours, ate well
-our modern minds are adapted to hunter-gatherer lifestyle; now interacting with post-industrial environment (causes some problems)
-each tribe had its own culture (galaxy of cultures); “there hasn’t been a single natural way of life”
-curtain of silence: we cannot reconstruct specific events, religious beliefs, wars, philosophies of ancient foragers (big gap in our understanding of history)
+- basically, life was pretty good (“first affluent societies”).. didn’t have to work as many hours, ate well
+- our modern minds are adapted to hunter-gatherer lifestyle; now interacting with post-industrial environment (causes some problems)
+- each tribe had its own culture (galaxy of cultures); “there hasn’t been a single natural way of life”
+- curtain of silence: we cannot reconstruct specific events, religious beliefs, wars, philosophies of ancient foragers (big gap in our understanding of history)
+
 ### 4. Impact of hunter-gatherers on ecosystem
-mass extinction of megafauna in Australia and America (they hadn’t evolved with humans, so were vulnerable)
+- mass extinction of megafauna in Australia and America (they hadn’t evolved with humans, so were vulnerable)
 
 ## Part 2: The Agricultural Revolution
 
@@ -30,24 +33,29 @@ marked by population increases: for nomadic foragers, babies/children were a bur
 	- luxury trap: small, incremental “improvements” in society added up to a worse lifestyle, and there’s no going back
 	- animals: domestication of animals led to cruel treatment, miserable lives
 
-how did humans organize themselves in unnaturally large numbers?
+[ how did humans organize themselves in unnaturally large numbers? ]
+
 ### 6. imagined orders
-food surpluses led to towns, cities, eventually kingdoms; relied on myths to bond unnaturally large groups of people
-created social codes to maintain social order: human rights, hierarchies; although imaginary, must actually be believed (doublethink)
-“evidence” imagined order is real: embedded in material world (architecture), shapes desires (consumerism), inter-subjective (eg money)
+- food surpluses led to towns, cities, eventually kingdoms; relied on myths to bond unnaturally large groups of people
+- created social codes to maintain social order: human rights, hierarchies; although imaginary, must actually be believed (doublethink)
+- “evidence” imagined order is real: embedded in material world (architecture), shapes desires (consumerism), inter-subjective (eg money)
+
 ### 7. written language
-as societies got more complex, needed to store a lot of data (taxes); developed written language to store data outside human brain
-first written language (3500 BC) were partial scripts, not intended to replicate spoken language, but to keep track of records
-written language changes the way humans think and view the world
-bureaucracy and data organization
-mathematics (physics/engineering don’t use spoken language)
-computers 
----  
+- as societies got more complex, needed to store a lot of data (taxes); developed written language to store data outside human brain
+- first written language (3500 BC) were partial scripts, not intended to replicate spoken language, but to keep track of records
+- written language changes the way humans think and view the world
+	- bureaucracy and data organization
+	- mathematics (physics/engineering don’t use spoken language)
+	- computers 
+
+[ end ]
+
+
 ### 8. imagined orders create categories of humans, cause discrimination
-complex human societies seem to require hierarchies and discrimination: caste sytems, racial heirarchies, rich and poor
-vicious cycle: chance historical events are perpetuated
-cultural prejudices → discriminatory laws → poverty and lack of education → cultural prejudices
-gender hierarchies: why are almost all human societies dominated by men? not historical chance since it’s so ubiquitous, but we don’t really know
+- complex human societies seem to require hierarchies and discrimination: caste sytems, racial heirarchies, rich and poor
+- vicious cycle: chance historical events are perpetuated
+	- cultural prejudices → discriminatory laws → poverty and lack of education → cultural prejudices
+- gender hierarchies: why are almost all human societies dominated by men? not historical chance since it’s so ubiquitous, but we don’t really know
 
 
 ## Part 3: The Unification of Humankind
