@@ -88,9 +88,9 @@
 	- layers: British empire ← Mughal empire ← Gupta empire, which cultural layers should be removed
 
 ### 12. religion
-what is a religion: system of human norms and values+belief in superhuman order
-supernatural religions
-animism: hunter-gatherers, local
+- what is a religion: system of human norms and values+belief in superhuman order
+- supernatural religions
+- animism: hunter-gatherers, local
 polytheism: early farmers create gods to help with fertility and abundant harvests, created hierarchy (plants & animals → Sapiens → gods), mix/match local gods
 monotheism: Christianity first to believe their God is everyone’s God, their rules are universal → should evangelize (unites people that it spreads to)
 dualism: good vs evil; Zoroastrianism, Gnosticism, Manichaeism
@@ -99,13 +99,13 @@ premodern: Buddhism (suffering arises from craving, liberated by training the mi
 modern: liberalism, Communism, capitalism, nationalism
 
 ### 13. two notes about history
-determinism & the hindsight fallacy
-“the present situation is neither natural or inevitable”
-“what looks inevitable in hindsight was far from obvious at the time”
-people w superficial understanding focus on the possibility that was realized, and act as thought it was inevitable
-cultural memes
-history disregards the happiness of individuals; no evidence those cultures beneficial to humans survive and those harmful fall
-“successful cultures are those that reproduce their memes, regardless of the cost/benefits to their human hosts”
+- determinism & the hindsight fallacy
+	- “the present situation is neither natural or inevitable”
+	- “what looks inevitable in hindsight was far from obvious at the time”
+	- people w superficial understanding focus on the possibility that was realized, and act as thought it was inevitable
+- cultural memes
+	- history disregards the happiness of individuals; no evidence those cultures beneficial to humans survive and those harmful fall
+	- “successful cultures are those that reproduce their memes, regardless of the cost/benefits to their human hosts”
 
 
 ## Part 4: The Scientific Revolution
@@ -145,54 +145,54 @@ problems with the free-market
 ## Part 4.5: The Industrial Revolution
 
 ### 17. the industrial revolution
-revolution in energy
-1825 - first steam engine train in England (Newcastle)
-“people became obsessed with the idea that machines and engines could be used to convert one typ of energy into another”, “the IR has been a revolution in energy conversion”
-revolution in agriculture
-industrial production methods: tractors, artificial fertilizer, incectisized 
-mistreatment of animals: like slave trade, not fueled by animosity, but by indifference; neglects subjective needs of animals (playing, bonding)
-smaller % of humans required to farm, enabled specialization & urban IR
-rise of consumerism
-throughout history scarcity → frugality; after IR & production, consumerism is positive and frugality is a disease to be cured
-in past, aristocrats lived luxuriously and peasants were frugal
-capitalist-consumerist ethic: now the rich take care of their assets (invest, greed) and the poor go into debt with consuming (buy, crave)
+- revolution in energy
+	- 1825 - first steam engine train in England (Newcastle)
+	- “people became obsessed with the idea that machines and engines could be used to convert one typ of energy into another”, “the IR has been a revolution in energy conversion”
+- revolution in agriculture
+	- industrial production methods: tractors, artificial fertilizer, incectisized 
+	- mistreatment of animals: like slave trade, not fueled by animosity, but by indifference; neglects subjective needs of animals (playing, bonding)
+	- smaller % of humans required to farm, enabled specialization & urban IR
+- rise of consumerism
+	- throughout history scarcity → frugality; after IR & production, consumerism is positive and frugality is a disease to be cured
+	- in past, aristocrats lived luxuriously and peasants were frugal
+	- capitalist-consumerist ethic: now the rich take care of their assets (invest, greed) and the poor go into debt with consuming (buy, crave)
 
 ### 18. effects of industrial revolution
-time
-in past, relied on movements of sun and growth cycles of plants
-after IR, precision and uniformity sanctified; invention of timetables, standardized time; “almost everything we do has to be done on time”
-the collapse of the family and the community
-role of welfare, health, education, bank, police used to be family/intimate community; now run by state bureaucracies and the market
-strong states/markets → strong, but alienated individuals; evolution designed us to live in communities, hence modern alienation
-“in the last 2 centuries, the intimate communities have withered, leaving imagined communities to fill in the emotional vacuum” (nation and consumer tribe)
-constant changes to social order
-premodern times: social order was hard and rigid, leaders “safeguard the traditional order or even go back to some lost golden age”
-the only characteristic of modern times is “incessant change” to social order
-despite this elastic order, modern times very peaceful
-peace
-rise of the state (courts & police) → large decrease in local violent crime
-collapse of British, French, Soviet empires after 1945 rather peaceful (some exceptions: Algeria, Vietnam)
-few wars: nuclear weapons (mutually assured destruction), wealth in human capital not material (can’t be captured), foreign trade & investment, peace-loving elite; Global Empire enforces peace within its borders (we aren’t really independent nations anymore)
+- time
+	- in past, relied on movements of sun and growth cycles of plants
+	- after IR, precision and uniformity sanctified; invention of timetables, standardized time; “almost everything we do has to be done on time”
+- the collapse of the family and the community
+	- role of welfare, health, education, bank, police used to be family/intimate community; now run by state bureaucracies and the market
+	- strong states/markets → strong, but alienated individuals; evolution designed us to live in communities, hence modern alienation
+	 - “in the last 2 centuries, the intimate communities have withered, leaving imagined communities to fill in the emotional vacuum” (nation and consumer tribe)
+- constant changes to social order
+	- premodern times: social order was hard and rigid, leaders “safeguard the traditional order or even go back to some lost golden age”
+	- the only characteristic of modern times is “incessant change” to social order
+	- despite this elastic order, modern times very peaceful
+- peace
+	- rise of the state (courts & police) → large decrease in local violent crime
+	- collapse of British, French, Soviet empires after 1945 rather peaceful (some exceptions: Algeria, Vietnam)
+	- few wars: nuclear weapons (mutually assured destruction), wealth in human capital not material (can’t be captured), foreign trade & investment, peace-loving elite; Global Empire enforces peace within its borders (we aren’t really independent nations anymore)
 
 ### 19. happiness
-how does wealth, health, community correlate with subjective well-being
-“happiness does not really depend on objective conditions ... it depends on the correlation between objective conditions and subjective expectations”
-how does biochemistry correlate with subjective well-being
-happiness = pleasant sensations caused by hormones
-evolution created homeostasis of happiness levels
-meaning
-“if you have a why to live you can bear almost any how” Nietschze 
-“any meaning that people ascribe to their lives is just a delusion” 
-Buddhism
-suffering arises from craving ephemeral feelings
+- how does wealth, health, community correlate with subjective well-being
+	- “happiness does not really depend on objective conditions ... it depends on the correlation between objective conditions and subjective expectations”
+	- how does biochemistry correlate with subjective well-being
+- happiness = pleasant sensations caused by hormones
+	- evolution created homeostasis of happiness levels
+- meaning
+	- “if you have a why to live you can bear almost any how” Nietschze 
+	- “any meaning that people ascribe to their lives is just a delusion” 
+- Buddhism
+	- suffering arises from craving ephemeral feelings
 
 ### 20. the future
-biological engineering
-genetic engineering: “our ability to modify genes is outpacing our capacity for making wise and far-sighted use of the skill”
-inevitable: “possibility of prolonging human life indefinitely, conquering incurable diseases, and upgrading cognitive & emotional abilities”
-cyborgs
-bionic arms controlled by thought, brain-computer interfaces
-inorganic life
-machine learning, AI
-uploading a brain to a computer
-singularity: all the concepts that give meaning to the world become irrelevant
+- biological engineering
+	- genetic engineering: “our ability to modify genes is outpacing our capacity for making wise and far-sighted use of the skill”
+	- inevitable: “possibility of prolonging human life indefinitely, conquering incurable diseases, and upgrading cognitive & emotional abilities”
+- cyborgs
+	- bionic arms controlled by thought, brain-computer interfaces
+- inorganic life
+	- machine learning, AI
+	- uploading a brain to a computer
+	- singularity: all the concepts that give meaning to the world become irrelevant
