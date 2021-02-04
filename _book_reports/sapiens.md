@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sapiens Outline
+---
+
 # Sapiens Outline
 
 ## Part 1: The Cognitive Revolution
@@ -90,13 +95,13 @@
 ### 12. religion
 - what is a religion: system of human norms and values+belief in superhuman order
 - supernatural religions
-- animism: hunter-gatherers, local
-polytheism: early farmers create gods to help with fertility and abundant harvests, created hierarchy (plants & animals → Sapiens → gods), mix/match local gods
-monotheism: Christianity first to believe their God is everyone’s God, their rules are universal → should evangelize (unites people that it spreads to)
-dualism: good vs evil; Zoroastrianism, Gnosticism, Manichaeism
-natural-law religions
-premodern: Buddhism (suffering arises from craving, liberated by training the mind to experience reality as it is), Stoicism/Cynicism/Epicureanism
-modern: liberalism, Communism, capitalism, nationalism
+	- animism: hunter-gatherers, local
+	- polytheism: early farmers create gods to help with fertility and abundant harvests, created hierarchy (plants & animals → Sapiens → gods), mix/match local gods
+	- monotheism: Christianity first to believe their God is everyone’s God, their rules are universal → should evangelize (unites people that it spreads to)
+	- dualism: good vs evil; Zoroastrianism, Gnosticism, Manichaeism
+- natural-law religions
+	- premodern: Buddhism (suffering arises from craving, liberated by training the mind to experience reality as it is), Stoicism/Cynicism/Epicureanism
+	- modern: liberalism, Communism, capitalism, nationalism
 
 ### 13. two notes about history
 - determinism & the hindsight fallacy
@@ -111,36 +116,36 @@ modern: liberalism, Communism, capitalism, nationalism
 ## Part 4: The Scientific Revolution
 
 ### 14. intro to science
-3 qualities of science
-admits its own ignorance & that could be proven wrong
-centrality of observation, generalized by mathematical theories
-produces technology (knowledge is power)
-scientific progress
-people used to think golden age in past, we are stagnant or deteriorating, we can only learn from ancient texts (Christianity, Islam)
-admitting ignorance + seeing new powers of science = people start to believe that progress is possible
-ultimate goal of science in 21st century: curing death
-ideological backing: science doesn’t have an agenda but its funding does
-is-ought problem: science can say what is, but politics/ideology says what we ought to study and what we ought to do with the power
+- 3 qualities of science
+	- admits its own ignorance & that could be proven wrong
+	- centrality of observation, generalized by mathematical theories
+	- produces technology (knowledge is power)
+- scientific progress
+	- people used to think golden age in past, we are stagnant or deteriorating, we can only learn from ancient texts (Christianity, Islam)
+	- admitting ignorance + seeing new powers of science = people start to believe that progress is possible
+- ultimate goal of science in 21st century: curing death
+- ideological backing: science doesn’t have an agenda but its funding does
+	- is-ought problem: science can say what is, but politics/ideology says what we ought to study and what we ought to do with the power
 
 ### 15. empires + science
-why Europe?
-center of power shifted from Asia to Europe only between 1750-1850
-Europe had been laying the foundations from 1500-1750 (science + capitalism)
-Asia just wasn’t interested in, for example, competing with Europe to conquer America (never made an attempt, tho technologically possible)
-discovery of America made Europeans realize they didn’t have all the answers (parallels with science itself), piqued curiosity
-began age of exploration of geography, botany, archaeology, anthropology
-British studied linguistics, archaeology of conquered lands (India)
+- why Europe?
+	- center of power shifted from Asia to Europe only between 1750-1850
+	- Europe had been laying the foundations from 1500-1750 (science + capitalism)
+	- Asia just wasn’t interested in, for example, competing with Europe to conquer America (never made an attempt, tho technologically possible)
+- discovery of America made Europeans realize they didn’t have all the answers (parallels with science itself), piqued curiosity
+	- began age of exploration of geography, botany, archaeology, anthropology
+	- British studied linguistics, archaeology of conquered lands (India)
 
 ### 16. capitalism + science
-growth cycle: trust in future → credit (+ discoveries/progress) → growth
-capitalist creed: “the profits of production must be reinvested in increasing production”
-banks, govts print money (pump credit into the system), science foots the bill; if scientists can’t come through, that’s a bubble
-capitalism + empire
-joint stock companies: VOC and British East India Company
-counties that handle credit well were more successful
-problems with the free-market
-“markets by themselves offer no protection against fraud, theft, and violence”
-“it cannot ensure that profits are gained in a fair way, or distributed in a fair manner” (slavery, exploitation... driven by greed and indifference)
+- growth cycle: trust in future → credit (+ discoveries/progress) → growth
+- capitalist creed: “the profits of production must be reinvested in increasing production”
+- banks, govts print money (pump credit into the system), science foots the bill; if scientists can’t come through, that’s a bubble
+- capitalism + empire
+	- joint stock companies: VOC and British East India Company
+	- counties that handle credit well were more successful
+- problems with the free-market
+	- “markets by themselves offer no protection against fraud, theft, and violence”
+	- “it cannot ensure that profits are gained in a fair way, or distributed in a fair manner” (slavery, exploitation... driven by greed and indifference)
 
 ## Part 4.5: The Industrial Revolution
 

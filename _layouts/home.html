@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h2> Book Reports </h2>
+{% for post in site.book_reports %}
+	<li> <a href="{{ post.url }}" > {{ post.title }} </a></li>
+{% endfor %}
+
