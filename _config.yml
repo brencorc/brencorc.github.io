@@ -3,5 +3,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Brendan's blog" # the name of your site, e.g. ACME Corp.
 
 collections:
+
   book_reports:
     output: true
+    display_label: "Book Reports"
+

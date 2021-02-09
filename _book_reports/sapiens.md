@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sapiens Outline
+title: Sapiens
 ---
 
 # Sapiens Outline

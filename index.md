@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Home page!"
+title: "Brendan's blog"
 ---
 
 ## Welcome to my blog

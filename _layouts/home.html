@@ -2,10 +2,27 @@
 layout: default
 ---
 
-{{ content }}
+<div class="container-fluid" style="margin-top:80px">
+<div class="row">
+	<div class="col-sm-2"></div>
+	<main class="col-sm-6">
+		{{ content }}
 
-<h2> Book Reports </h2>
-{% for post in site.book_reports %}
-	<li> <a href="{{ post.url }}" > {{ post.title }} </a></li>
-{% endfor %}
+		{% for collection in site.collections  %}
+			{% if collection.label != "posts" %}
+				<h3> {{ collection.display_label }} </h2>
+				{% for post in collection.docs %}
+					<li> <a href="{{ post.url }}" > {{ post.title }} </a></li>
+				{% endfor %}
+			{% endif %}
+		{% endfor %}
+
+
+	</main>
+	<div class="col-sm-4"></div>
+</div>
+</div>
+
+
+
 
