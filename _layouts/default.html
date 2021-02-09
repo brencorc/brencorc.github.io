@@ -24,6 +24,22 @@
   <body data-spy="scroll" data-target="#toc">
   	<nav class="navbar navbar-expand-md bg-dark navbar-dark sticky-top">
   		<a class="navbar-brand" href="/">Brendan's blog</a>
+  		<ul class="navbar-nav">
+  			{% for collection in site.collections  %}
+				{% if collection.label != "posts" %}
+					<li class="nav-item dropdown">
+					      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+					        {{ collection.display_label }}
+					      </a>
+					      <div class="dropdown-menu">
+							{% for post in collection.docs %}
+								<a class="dropdown-item" href="{{ post.url }}" > {{ post.title }} </a>
+							{% endfor %}
+						</div>
+					</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
   		</div>
   	</nav>
     
