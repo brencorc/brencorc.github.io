@@ -2,9 +2,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Brendan's blog" # the name of your site, e.g. ACME Corp.
 
+
 collections:
 
   book_reports:
     output: true
     display_label: "Book Reports"
+
+  class_outlines:
+    output: true
+    display_label: "Class Outlines"
 

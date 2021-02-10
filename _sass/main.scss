@@ -1,16 +1,28 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: Helvetica, sans-serif;
+$bodyFont: Helvetica Neue, Helvetica, sans-serif;
+$titlePadding: 30px;
+$navbarHeight: 56px;
+$fontWeight: 300;
 
 body {
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
+  font-weight: $fontWeight;
+
+  h1, h2, h3, h4, h5, h6 {
+  	font-weight: $fontWeight;
+  }
 }
 
 h2 { font-size: 1.75rem; }
 h3 { font-size: 1.5rem; }
 h4 { font-size: 1.25rem; }
+
+.page-content {
+	padding-top: $titlePadding;
+}
 
 @media (min-width:1400px) {
 	.container-fluid {
@@ -18,11 +30,15 @@ h4 { font-size: 1.25rem; }
 	}
 }
 
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
 
 
 /* Table of contents styles */
 nav[data-toggle="toc"] {
-  top: 56px;
+  top: $navbarHeight + $titlePadding;
 }
 
 /* small screens */
