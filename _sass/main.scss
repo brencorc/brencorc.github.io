@@ -24,6 +24,13 @@ h4 { font-size: 1.25rem; }
 	padding-top: $titlePadding;
 }
 
+.katex-display {
+	.katex {
+	  overflow-x: scroll;
+	  overflow-y: hidden;
+	}
+} 
+
 @media (min-width:1400px) {
 	.container-fluid {
 		max-width: 1320px;
