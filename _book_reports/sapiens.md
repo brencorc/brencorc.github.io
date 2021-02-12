@@ -3,7 +3,14 @@ layout: page
 title: Sapiens
 ---
 
-# Sapiens Outline
+# Sapiens Notes
+
+> ### Key Points
+> - **cultural ratchet**: cultural evolution, "fast lane", human progress builds on itself
+> - **luxury trap**: small, incremental “improvements” in society added up to a worse lifestyle, and there’s no going back
+> - **determinism and hindsight fallacy**: “the present situation is neither natural or inevitable” and “what looks inevitable in hindsight was far from obvious at the time”
+> - **growth cycle**: trust in future → credit (+ discoveries/progress) → growth
+> - **collapse of community**: "in the last 2 centuries, the intimate communities have withered, leaving imagined communities to fill in the emotional vacuum”
 
 ## Part 1: The Cognitive Revolution
 
