@@ -7,7 +7,7 @@ title: Amusing Ourselves to Death
 
 > ### Key Points
 > - **form determines content**: “how we are obliged to conduct such conversations will have the strongest possible influence on what ideas we can conveniently express. And what ideas are convenient to express inevitably become the important content of a culture”
-> - **technology fundamentally changes society**: because new forms change content/discourse, new technology (specifically in communication) generates a paradigm shift in society
+> - **technology fundamentally changes society**: because new media forms change content/discourse, new communication/information technology generates a paradigm shift in society
 > - **epistemology**: the prevailing media form determine what is considered “true”
 > - **benefits of written media**: “writing makes it possible and convenient to subject thought to a continuous and concentrated scrutiny. Writing freezes speech ... so that [the reader] can see what it means, where it errs, and where it is leading”
 > - **telegraph and information glut**: “The principal strength of the telegraph was its capacity to move information, not collect it, explain it or analyze it. In this respect, telegraphy was the exact opposite of typography.”
@@ -36,7 +36,7 @@ title: Amusing Ourselves to Death
 
 "This includes your bringing to the task what Bertrand Russell called an “immunity to eloquence,” meaning that you are able to distinguish between the sensuous pleasure, or charm, or ingratiating tone (if such there be) of the words, and the logic of their argument" (25). 
 
-##Benefits of written media
+## Benefits of written media
 
 "Nonetheless, it is clear that phonetic writing created a new conception of knowledge, as well as a new sense of intelligence, of audience and of posterity, all of which Plato recognized at an early stage in the development of texts. “No man of intelligence,” he wrote in his Seventh Letter, “will venture to express his philosophical views in language, especially not in language that is unchangeable, which is true of that which is set down in written characters.” This notwithstanding, he wrote voluminously and understood better than anyone else that the setting down of views in written characters would be the beginning of philosophy, not its end. Philosophy cannot exist without criticism, and writing makes it possible and convenient to subject thought to a continuous and concentrated scrutiny. Writing freezes speech and in so doing gives birth to the grammarian, the logician, the rhetorician, the historian, the scientist—all those who must hold language before them so that they can see what it means, where it errs, and where it is leading" (12).
 
